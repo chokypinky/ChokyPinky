@@ -1,20 +1,4 @@
 // ==============================
-// YOUTUBE DIRECT LINK
-// ==============================
-
-const youtubeURL = "https://www.youtube.com/@ChokyPinky";
-
-const youtubeBtn = document.getElementById("youtubeBtn");
-
-if (youtubeBtn) {
-  youtubeBtn.addEventListener("click", function () {
-    window.open(youtubeURL, "_blank");
-  });
-}
-
-
-
-// ==============================
 // MENANDAI HALAMAN YANG AKTIF
 // ==============================
 
